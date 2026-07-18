@@ -18,8 +18,9 @@ Each lesson follows the same three-part structure:
 | 2 | [Number Representation](<./2. Number Representation.md>) | Decimal, Binary, Octal, Hexadecimal, Base Conversion, Digit Representation, Character ↔ Integer conversion, Overflow, Underflow, Integer limits, `long`, `BigInteger`, `BigDecimal` |
 | 3 | [Digits](<./3. Digits.md>) | Extract Digit, Count Digits, Reverse Digits, Sum/Product of Digits, Leading/Trailing Zeros, Digit Frequency, Last/First Digit |
 | 4 | [Divisibility](<./4. Divisibility.md>) | Even/Odd, Divisibility Tests, Multiples, Factors, Proper Factors, Perfect Numbers, Common Divisors |
+| 5 | [Prime Numbers](<./5. Prime Numbers.md>) | Prime Checking, Trial Division, Optimized √N Check, Sieve of Eratosthenes, Linear Sieve, Prime Factorization, Smallest Prime Factor (SPF), Segmented Sieve |
 
-> More topics — GCD/LCM, Prime Numbers, Sieve of Eratosthenes, Exponentiation — will be added here as the series grows.
+> More topics — GCD/LCM, Exponentiation — will be added here as the series grows.
 
 ---
 
