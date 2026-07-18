@@ -16,6 +16,7 @@ Each lesson follows the same three-part structure:
 |---|-------|--------------------|
 | 1 | [Basic Arithmetic](<./1. Basic Arithmetic.md>) | Addition, Subtraction, Multiplication, Division, Integer Division, Modulo, Negative Numbers, Absolute Value, Floor, Ceiling |
 | 2 | [Number Representation](<./2. Number Representation.md>) | Decimal, Binary, Octal, Hexadecimal, Base Conversion, Digit Representation, Character ↔ Integer conversion, Overflow, Underflow, Integer limits, `long`, `BigInteger`, `BigDecimal` |
+| 3 | [Digits](<./3. Digits.md>) | Extract Digit, Count Digits, Reverse Digits, Sum/Product of Digits, Leading/Trailing Zeros, Digit Frequency, Last/First Digit |
 
 > More topics — GCD/LCM, Prime Numbers, Sieve of Eratosthenes, Exponentiation — will be added here as the series grows.
 
