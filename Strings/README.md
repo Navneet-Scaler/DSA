@@ -19,15 +19,15 @@ Most lessons cover a **progression of named problems per subtopic** (basic → a
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | [String Fundamentals](<./01. String Fundamentals.md>) | ✅ |
-| 02 | Java String APIs | planned |
-| 03 | Character Operations | planned |
-| 04 | String Traversal | planned |
-| 05 | Frequency Counting | planned |
-| 06 | Two Pointers | planned |
-| 07 | Sliding Window | planned |
-| 08 | Hashing | planned |
-| 09 | Pattern Matching | planned |
-| 10 | Palindromes | planned |
+| 02 | [Java String APIs](<./02. Java String APIs.md>) | ✅ |
+| 03 | [Character Operations](<./03. Character Operations.md>) | ✅ |
+| 04 | [String Traversal](<./04. String Traversal.md>) | ✅ |
+| 05 | [Frequency Counting](<./05. Frequency Counting.md>) | ✅ |
+| 06 | [Two Pointers](<./06. Two Pointers.md>) | ✅ |
+| 07 | [Sliding Window](<./07. Sliding Window.md>) | ✅ |
+| 08 | [Hashing](<./08. Hashing.md>) | ✅ |
+| 09 | [Pattern Matching](<./09. Pattern Matching.md>) | ✅ |
+| 10 | [Palindromes](<./10. Palindromes.md>) | ✅ |
 | 11 | Anagrams | planned |
 | 12 | Subsequences | planned |
 | 13 | Prefix & Suffix | planned |
