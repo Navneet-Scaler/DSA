@@ -20,8 +20,9 @@ Each lesson follows the same three-part structure:
 | 4 | [Divisibility](<./4. Divisibility.md>) | Even/Odd, Divisibility Tests, Multiples, Factors, Proper Factors, Perfect Numbers, Common Divisors |
 | 5 | [Prime Numbers](<./5. Prime Numbers.md>) | Prime Checking, Trial Division, Optimized √N Check, Sieve of Eratosthenes, Linear Sieve, Prime Factorization, Smallest Prime Factor (SPF), Segmented Sieve |
 | 6 | [GCD and LCM](<./6. GCD and LCM.md>) | Euclidean Algorithm, Extended Euclid, Binary GCD, LCM, GCD Properties, Coprime Numbers |
+| 7 | [Powers and Exponentiation](<./7. Powers and Exponentiation.md>) | Power, Fast Power, Binary Exponentiation, Modular Exponentiation, Negative Powers, Floating Powers |
 
-> More topics — Exponentiation and beyond — will be added here as the series grows.
+> More topics will be added here as the series grows.
 
 ---
 
