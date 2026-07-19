@@ -28,6 +28,18 @@ Each lesson follows the same three-part structure:
 | 12 | [Number Theory](<./12. Number Theory.md>) | Euler Totient, Modular Arithmetic, Modular Inverse, Chinese Remainder Theorem, Fermat's Little Theorem, Wilson's Theorem, Bézout Identity |
 | 13 | [Modular Arithmetic](<./13. Modular Arithmetic.md>) | Mod Addition, Mod Subtraction, Mod Multiplication, Mod Division, Fast Mod Power, Inverse Mod |
 | 14 | [Combinatorics](<./14. Combinatorics.md>) | Permutations, Combinations, nCr, nPr, Pascal's Triangle, Inclusion-Exclusion, Stars and Bars |
+| 15 | [Counting Techniques](<./15. Counting Techniques.md>) | Counting Digits, Counting Numbers, Frequency Counting, Digit DP Basics, Counting Arrangements |
+| 16 | [Sequences](<./16. Sequences.md>) | Fibonacci, Arithmetic Progression, Geometric Progression, Tribonacci, Catalan Numbers |
+| 17 | [Matrix Mathematics](<./17. Matrix Mathematics.md>) | Matrix Multiplication, Matrix Exponentiation, Identity Matrix, Rotation, Transpose |
+| 18 | [Geometry](<./18. Geometry.md>) | Distance, Slope, Collinearity, Area, Perimeter, Rectangle, Circle, Triangle, Polygon, Coordinate Geometry |
+| 19 | [Probability](<./19. Probability.md>) | Basic Probability, Expected Value, Random Selection, Uniform Distribution |
+| 20 | [Simulation](<./20. Simulation.md>) | Process Simulation, Number Simulation, Mathematical Simulation |
+| 21 | [Binary Search on Answer](<./21. Binary Search on Answer.md>) | Square Root, nth Root, Search Over a Mathematical Function |
+| 22 | [Optimization](<./22. Optimization.md>) | Greedy + Math, Observation, Mathematical Proof, Formula Derivation |
+| 23 | [Bit Mathematics](<./23. Bit Mathematics.md>) | Bit Operations, XOR Math, Powers of Two, Gray Code, Population Count |
+| 24 | [Recurrence Relations](<./24. Recurrence Relations.md>) | DP Recurrence, Mathematical Recurrence, Linear Recurrence |
+| 25 | [String Mathematics](<./25. String Mathematics.md>) | Big Number Addition, Multiply Strings, Binary Strings, Decimal Strings |
+| 26 | [Java-Specific Math](<./26. Java-Specific Math.md>) | Math Class, Math.pow, Math.sqrt, Math.abs, Math.max, Math.min, Math.floor, Math.ceil, Math.round, Random, BigInteger, BigDecimal |
 
 > More topics will be added here as the series grows.
 

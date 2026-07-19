@@ -46,5 +46,17 @@ DSA/
     ├── 11. Decimal Mathematics.md
     ├── 12. Number Theory.md
     ├── 13. Modular Arithmetic.md
-    └── 14. Combinatorics.md
+    ├── 14. Combinatorics.md
+    ├── 15. Counting Techniques.md
+    ├── 16. Sequences.md
+    ├── 17. Matrix Mathematics.md
+    ├── 18. Geometry.md
+    ├── 19. Probability.md
+    ├── 20. Simulation.md
+    ├── 21. Binary Search on Answer.md
+    ├── 22. Optimization.md
+    ├── 23. Bit Mathematics.md
+    ├── 24. Recurrence Relations.md
+    ├── 25. String Mathematics.md
+    └── 26. Java-Specific Math.md
 ```
