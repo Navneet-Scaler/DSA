@@ -31,7 +31,7 @@ Most lessons cover a **progression of named problems per subtopic** (basic → a
 | 11 | [Anagrams](<./11. Anagrams.md>) | ✅ |
 | 12 | [Subsequences](<./12. Subsequences.md>) | ✅ |
 | 13 | [Prefix & Suffix](<./13. Prefix & Suffix.md>) | ✅ |
-| 14 | Parsing | planned |
+| 14 | [Parsing](<./14. Parsing.md>) | ✅ |
 | 15 | String Construction | planned |
 | 16 | Compression & Encoding | planned |
 | 17 | Dynamic Programming on Strings | planned |
