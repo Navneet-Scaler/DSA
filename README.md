@@ -33,5 +33,18 @@ More topics (Arrays, Strings, Recursion, Sorting, Trees, Graphs, DP, etc.) will 
 DSA/
 └── Maths/
     ├── README.md
-    └── 1. Basic Arithmetic.md
+    ├── 01. Basic Arithmetic.md
+    ├── 02. Number Representation.md
+    ├── 03. Digits.md
+    ├── 04. Divisibility.md
+    ├── 05. Prime Numbers.md
+    ├── 06. GCD and LCM.md
+    ├── 07. Powers and Exponentiation.md
+    ├── 08. Logarithms.md
+    ├── 09. Factorials.md
+    ├── 10. Fractions.md
+    ├── 11. Decimal Mathematics.md
+    ├── 12. Number Theory.md
+    ├── 13. Modular Arithmetic.md
+    └── 14. Combinatorics.md
 ```
