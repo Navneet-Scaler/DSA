@@ -27,6 +27,7 @@ Each lesson follows the same three-part structure:
 | 11 | [Decimal Mathematics](<./11. Decimal Mathematics.md>) | Precision, Floating Point Errors, Rounding, Significant Digits, Scientific Notation |
 | 12 | [Number Theory](<./12. Number Theory.md>) | Euler Totient, Modular Arithmetic, Modular Inverse, Chinese Remainder Theorem, Fermat's Little Theorem, Wilson's Theorem, Bézout Identity |
 | 13 | [Modular Arithmetic](<./13. Modular Arithmetic.md>) | Mod Addition, Mod Subtraction, Mod Multiplication, Mod Division, Fast Mod Power, Inverse Mod |
+| 14 | [Combinatorics](<./14. Combinatorics.md>) | Permutations, Combinations, nCr, nPr, Pascal's Triangle, Inclusion-Exclusion, Stars and Bars |
 
 > More topics will be added here as the series grows.
 
