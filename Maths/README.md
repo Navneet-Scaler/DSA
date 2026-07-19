@@ -24,6 +24,7 @@ Each lesson follows the same three-part structure:
 | 8 | [Logarithms](<./8. Logarithms.md>) | log, log10, log2, Digit Count Using Logs |
 | 9 | [Factorials](<./9. Factorials.md>) | Factorial, Recursive Factorial, Iterative Factorial, Trailing Zeros, Large Factorials, Factorial Modulo |
 | 10 | [Fractions](<./10. Fractions.md>) | Numerator/Denominator, Simplification, Mixed Fractions, Fraction Addition, Fraction Multiplication, Decimal Conversion, Recurring Decimals |
+| 11 | [Decimal Mathematics](<./11. Decimal Mathematics.md>) | Precision, Floating Point Errors, Rounding, Significant Digits, Scientific Notation |
 
 > More topics will be added here as the series grows.
 
