@@ -23,6 +23,7 @@ Each lesson follows the same three-part structure:
 | 7 | [Powers and Exponentiation](<./7. Powers and Exponentiation.md>) | Power, Fast Power, Binary Exponentiation, Modular Exponentiation, Negative Powers, Floating Powers |
 | 8 | [Logarithms](<./8. Logarithms.md>) | log, log10, log2, Digit Count Using Logs |
 | 9 | [Factorials](<./9. Factorials.md>) | Factorial, Recursive Factorial, Iterative Factorial, Trailing Zeros, Large Factorials, Factorial Modulo |
+| 10 | [Fractions](<./10. Fractions.md>) | Numerator/Denominator, Simplification, Mixed Fractions, Fraction Addition, Fraction Multiplication, Decimal Conversion, Recurring Decimals |
 
 > More topics will be added here as the series grows.
 
