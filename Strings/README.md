@@ -39,7 +39,7 @@ Most lessons cover a **progression of named problems per subtopic** (basic → a
 | 19 | [Trie-Based Strings](<./19. Trie-Based Strings.md>) | ✅ |
 | 20 | [Advanced String Algorithms](<./20. Advanced String Algorithms.md>) | ✅ |
 | 21 | [Mathematical String Problems](<./21. Mathematical String Problems.md>) | ✅ |
-| 22 | Simulation | planned |
+| 22 | [Simulation](<./22. Simulation.md>) | ✅ |
 | 23 | Miscellaneous | planned |
 
 > Lessons are added incrementally — the table above tracks what's done vs. what's next.
