@@ -14,8 +14,9 @@ Every topic follows the same format: **Theory → Java Code → Practical Exampl
 |---|-------|-------------|
 | 01 | [Maths](./Maths/README.md) | Number theory & arithmetic foundations used across DSA problems |
 | 02 | [Arrays](./Arrays/README.md) | Array fundamentals through the full pattern library (prefix/suffix, sliding window, two pointers, monotonic structures, cyclic sort, DP optimizations, and more) |
+| 03 | [Strings](./Strings/README.md) | String fundamentals through pattern matching (KMP, Z-algorithm, Rabin-Karp), palindromes, tries, string DP, and advanced algorithms (suffix arrays, Aho-Corasick) |
 
-More topics (Strings, Recursion, Trees, Graphs, DP, etc.) will be added incrementally.
+More topics (Recursion, Trees, Graphs, DP, etc.) will be added incrementally.
 
 ---
 
@@ -87,4 +88,29 @@ DSA/
     ├── 23. Advanced Array Algorithms.md
     ├── 24. Advanced Optimization.md
     └── 25. Array Design Problems.md
+└── Strings/
+    ├── README.md
+    ├── 01. String Fundamentals.md
+    ├── 02. Java String APIs.md
+    ├── 03. Character Operations.md
+    ├── 04. String Traversal.md
+    ├── 05. Frequency Counting.md
+    ├── 06. Two Pointers.md
+    ├── 07. Sliding Window.md
+    ├── 08. Hashing.md
+    ├── 09. Pattern Matching.md
+    ├── 10. Palindromes.md
+    ├── 11. Anagrams.md
+    ├── 12. Subsequences.md
+    ├── 13. Prefix & Suffix.md
+    ├── 14. Parsing.md
+    ├── 15. String Construction.md
+    ├── 16. Compression & Encoding.md
+    ├── 17. Dynamic Programming on Strings.md
+    ├── 18. Backtracking.md
+    ├── 19. Trie-Based Strings.md
+    ├── 20. Advanced String Algorithms.md
+    ├── 21. Mathematical String Problems.md
+    ├── 22. Simulation.md
+    └── 23. Miscellaneous.md
 ```
