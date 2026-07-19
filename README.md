@@ -13,6 +13,7 @@ Every topic follows the same format: **Theory → Java Code → Practical Exampl
 | # | Topic | Description |
 |---|-------|-------------|
 | 01 | [Maths](./Maths/README.md) | Number theory & arithmetic foundations used across DSA problems |
+| 02 | [Problem-Solving Techniques](<./Problem Solving Techniques/README.md>) | Recurring patterns and strategies (Brute Force, Sieve, Binary Search on Answer, etc.) for approaching problems |
 
 More topics (Arrays, Strings, Recursion, Sorting, Trees, Graphs, DP, etc.) will be added incrementally.
 
@@ -31,20 +32,23 @@ More topics (Arrays, Strings, Recursion, Sorting, Trees, Graphs, DP, etc.) will 
 
 ```
 DSA/
-└── Maths/
+├── Maths/
+│   ├── README.md
+│   ├── 01. Basic Arithmetic.md
+│   ├── 02. Number Representation.md
+│   ├── 03. Digits.md
+│   ├── 04. Divisibility.md
+│   ├── 05. Prime Numbers.md
+│   ├── 06. GCD and LCM.md
+│   ├── 07. Powers and Exponentiation.md
+│   ├── 08. Logarithms.md
+│   ├── 09. Factorials.md
+│   ├── 10. Fractions.md
+│   ├── 11. Decimal Mathematics.md
+│   ├── 12. Number Theory.md
+│   ├── 13. Modular Arithmetic.md
+│   └── 14. Combinatorics.md
+└── Problem Solving Techniques/
     ├── README.md
-    ├── 01. Basic Arithmetic.md
-    ├── 02. Number Representation.md
-    ├── 03. Digits.md
-    ├── 04. Divisibility.md
-    ├── 05. Prime Numbers.md
-    ├── 06. GCD and LCM.md
-    ├── 07. Powers and Exponentiation.md
-    ├── 08. Logarithms.md
-    ├── 09. Factorials.md
-    ├── 10. Fractions.md
-    ├── 11. Decimal Mathematics.md
-    ├── 12. Number Theory.md
-    ├── 13. Modular Arithmetic.md
-    └── 14. Combinatorics.md
+    └── 01. Brute Force.md
 ```
