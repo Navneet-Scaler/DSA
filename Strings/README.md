@@ -36,7 +36,7 @@ Most lessons cover a **progression of named problems per subtopic** (basic → a
 | 16 | [Compression & Encoding](<./16. Compression & Encoding.md>) | ✅ |
 | 17 | [Dynamic Programming on Strings](<./17. Dynamic Programming on Strings.md>) | ✅ |
 | 18 | [Backtracking](<./18. Backtracking.md>) | ✅ |
-| 19 | Trie-Based Strings | planned |
+| 19 | [Trie-Based Strings](<./19. Trie-Based Strings.md>) | ✅ |
 | 20 | Advanced String Algorithms | planned |
 | 21 | Mathematical String Problems | planned |
 | 22 | Simulation | planned |
