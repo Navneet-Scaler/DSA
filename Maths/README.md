@@ -25,6 +25,7 @@ Each lesson follows the same three-part structure:
 | 9 | [Factorials](<./9. Factorials.md>) | Factorial, Recursive Factorial, Iterative Factorial, Trailing Zeros, Large Factorials, Factorial Modulo |
 | 10 | [Fractions](<./10. Fractions.md>) | Numerator/Denominator, Simplification, Mixed Fractions, Fraction Addition, Fraction Multiplication, Decimal Conversion, Recurring Decimals |
 | 11 | [Decimal Mathematics](<./11. Decimal Mathematics.md>) | Precision, Floating Point Errors, Rounding, Significant Digits, Scientific Notation |
+| 12 | [Number Theory](<./12. Number Theory.md>) | Euler Totient, Modular Arithmetic, Modular Inverse, Chinese Remainder Theorem, Fermat's Little Theorem, Wilson's Theorem, Bézout Identity |
 
 > More topics will be added here as the series grows.
 
