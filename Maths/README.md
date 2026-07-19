@@ -22,6 +22,7 @@ Each lesson follows the same three-part structure:
 | 6 | [GCD and LCM](<./6. GCD and LCM.md>) | Euclidean Algorithm, Extended Euclid, Binary GCD, LCM, GCD Properties, Coprime Numbers |
 | 7 | [Powers and Exponentiation](<./7. Powers and Exponentiation.md>) | Power, Fast Power, Binary Exponentiation, Modular Exponentiation, Negative Powers, Floating Powers |
 | 8 | [Logarithms](<./8. Logarithms.md>) | log, log10, log2, Digit Count Using Logs |
+| 9 | [Factorials](<./9. Factorials.md>) | Factorial, Recursive Factorial, Iterative Factorial, Trailing Zeros, Large Factorials, Factorial Modulo |
 
 > More topics will be added here as the series grows.
 
