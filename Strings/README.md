@@ -29,7 +29,7 @@ Most lessons cover a **progression of named problems per subtopic** (basic → a
 | 09 | [Pattern Matching](<./09. Pattern Matching.md>) | ✅ |
 | 10 | [Palindromes](<./10. Palindromes.md>) | ✅ |
 | 11 | [Anagrams](<./11. Anagrams.md>) | ✅ |
-| 12 | Subsequences | planned |
+| 12 | [Subsequences](<./12. Subsequences.md>) | ✅ |
 | 13 | Prefix & Suffix | planned |
 | 14 | Parsing | planned |
 | 15 | String Construction | planned |
